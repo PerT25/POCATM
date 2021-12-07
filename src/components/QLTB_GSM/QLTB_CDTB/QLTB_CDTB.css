@@ -1,0 +1,90 @@
+.tieudedap {
+    position: static;
+    width: 400px;
+    height: 30px;
+    margin-left: 355px;
+    margin-top: -25px;
+    /* 24 Extra Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    /* Blue/8 */
+    color: #091F3A;
+    opacity: 0.8;
+    /* Inside Auto Layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.tieude_CDTB {
+    position: static;
+    width: 140px;
+    height: 20px;
+    margin-left: 10px;
+    /* 16 Extra Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Grey/4 */
+    color: #ACBCD1;
+    /* Inside Auto Layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.tieudeqltb_CDTB {
+    position: static;
+    width: 300px;
+    height: 20px;
+    margin-left: 165px;
+    margin-top: -18px;
+    /* 16 Extra Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Grey/4 */
+    color: #ACBCD1;
+    /* Inside Auto Layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.muiten_CDTB {
+    position: absolute;
+    margin-left: 145px;
+    margin-top: -15px;
+}
+
+.muiten_CDTB1 {
+    position: absolute;
+    margin-left: 340px;
+    margin-top: -15px;
+}
+
+.CDTB1 {
+    margin-left: 21px;
+}
+
+thead[class*="ant-table-thead"] th {
+    background-color: #EAF5FA !important;
+    padding: 10px 10px 10px 10px;
+    color: #1085C5;
+    border: none;
+}

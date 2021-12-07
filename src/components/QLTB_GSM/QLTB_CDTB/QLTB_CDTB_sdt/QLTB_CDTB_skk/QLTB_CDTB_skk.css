@@ -1,0 +1,868 @@
+.khungtrang {
+    /* Frame 2 */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 24px;
+    position: absolute;
+    width: 1541px;
+    height: 479px;
+    left: 347px;
+    top: 178px;
+    /* White */
+    background: #FFFFFF;
+    border-radius: 16px;
+}
+
+.tb1 {
+    /* Frame 4 */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 24px;
+    position: absolute;
+    width: 520px;
+    height: 392px;
+    left: 20px;
+    top: 50px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/3 */
+    border: 1px solid #DEE1E2;
+    box-sizing: border-box;
+    border-radius: 16px;
+}
+
+.tttb {
+    /* Thông tin thiết bị */
+    position: absolute;
+    width: 151px;
+    height: 23px;
+    left: 20px;
+    top: 10px;
+    /* 18 Extra Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.cdsdt {
+    /* Cài đặt số điện thoại */
+    position: absolute;
+    width: 181px;
+    height: 23px;
+    left: 560px;
+    top: 10px;
+    /* 18 Extra Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.tb2 {
+    /* Frame 4 */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 24px;
+    position: absolute;
+    width: 461px;
+    height: 392px;
+    left: 560px;
+    top: 47px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/3 */
+    border: 1px solid #DEE1E2;
+    box-sizing: border-box;
+    border-radius: 16px;
+}
+
+.cdncb {
+    /* Cài đặt ngưỡng cảnh báo */
+    position: absolute;
+    width: 222px;
+    height: 23px;
+    left: 1040px;
+    top: 10px;
+    /* 18 Extra Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.tb3 {
+    /* Frame 4 */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px;
+    position: absolute;
+    width: 464px;
+    height: 392px;
+    left: 1040px;
+    top: 47px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/3 */
+    border: 1px solid #DEE1E2;
+    box-sizing: border-box;
+    border-radius: 16px;
+}
+
+.IMEI {
+    /* IMEI: */
+    position: absolute;
+    width: 472px;
+    height: 20px;
+    left: 24px;
+    top: 26px;
+    /* 16 Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.IMEI1 {
+    /* 4895482646960 */
+    position: absolute;
+    width: 336px;
+    height: 24px;
+    left: 160px;
+    top: 24px;
+    /* Text/Text 16 Regular */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.nkh_tb1 {
+    /* Ngày kích hoạt: */
+    position: absolute;
+    width: 120px;
+    height: 20px;
+    left: 24px;
+    top: 74px;
+    /* 16 Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.nkh1_tb1 {
+    /* 19/02/2021 22:00:00 */
+    position: absolute;
+    width: 336px;
+    height: 24px;
+    left: 160px;
+    top: 72px;
+    /* Text/Text 16 Regular */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.tentk_tb1 {
+    /* Tên thiết bị: */
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    left: 24px;
+    top: 132px;
+    /* 16 Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.ttb_tb1 {
+    /* Form to type */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 24px 13px 16px;
+    position: absolute;
+    width: 336px;
+    height: 44px;
+    left: 160px;
+    top: 120px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/4 */
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.loaithietbi_tb1 {
+    /* Loại thiết bị: */
+    position: absolute;
+    width: 94px;
+    height: 20px;
+    left: 24px;
+    top: 200px;
+    /* 16 Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.ltb_tb1 {
+    /* dropdown */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+    position: absolute;
+    width: 336px;
+    height: 44px;
+    left: 160px;
+    top: 188px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/3 */
+    border: 1px solid #DEE1E2;
+    border-radius: 8px;
+}
+
+.dropdowndude {
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 445px;
+}
+
+.sim_tb1 {
+    position: absolute;
+    width: 33px;
+    height: 20px;
+    left: 24px;
+    top: 268px;
+    /* 16 Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.box_SIM_tb1 {
+    /* Form to type */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 24px 13px 16px;
+    position: absolute;
+    width: 336px;
+    height: 44px;
+    left: 160px;
+    top: 256px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/4 */
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.dcld_tb1 {
+    /* Địa chỉ lắp đặt: */
+    position: absolute;
+    width: 116px;
+    height: 20px;
+    left: 24px;
+    top: 336px;
+    /* 16 Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.box_dcld_tb1 {
+    /* Form to type */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 24px 13px 16px;
+    position: absolute;
+    width: 336px;
+    height: 44px;
+    left: 160px;
+    top: 324px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/4 */
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.phone1_tb2_skk {
+    /* Số điện thoại khẩn cấp: */
+    position: absolute;
+    width: 101px;
+    height: 40px;
+    left: 24px;
+    top: 26px;
+    /* 16 Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.phone1_tb2_2_skk_1 {
+    /* Form to type */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 24px 13px 16px;
+    position: absolute;
+    width: 220px;
+    height: 44px;
+    left: 217px;
+    top: 76px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/4 */
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.phone1_tb2_2_skk {
+    /* Form to type */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 24px 13px 16px;
+    position: absolute;
+    width: 220px;
+    height: 44px;
+    left: 217px;
+    top: 24px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/4 */
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.add_more_icon_skk {
+    /* fi:plus-circle */
+    position: static;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: 0px;
+    /* Inside Auto Layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.add_more_name1_skk {
+    /* Thêm số khẩn cấp */
+    position: absolute;
+    width: 103px;
+    height: 18px;
+    margin-left: 40px;
+    margin-top: -20px;
+    /* 12 regular */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height, or 150% */
+    display: flex;
+    align-items: center;
+    text-align: right;
+    letter-spacing: 0.005em;
+    /* Blue/5 */
+    color: #2190CD;
+    /* Inside Auto Layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.add_more_skk {
+    position: absolute;
+    margin-left: 190px;
+    margin-top: 100px;
+}
+
+.phone2_tb2_skk {
+    /* Số điện thoại nhận cuộc gọi: */
+    position: absolute;
+    width: 111px;
+    height: 40px;
+    left: 24px;
+    top: 178px;
+    /* 16 Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.phone2_tb2_2_skk {
+    /* Form to type */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 24px 13px 16px;
+    position: absolute;
+    width: 220px;
+    height: 44px;
+    left: 217px;
+    top: 176px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/4 */
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.add_more_icon2_skk {
+    /* fi:plus-circle */
+    position: static;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: 0px;
+    /* Inside Auto Layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.add_more1_skk {
+    position: absolute;
+    margin-left: 190px;
+    margin-top: 200px;
+}
+
+.add_more_name3_skk {
+    /* Thêm số khẩn cấp */
+    position: absolute;
+    width: 200px;
+    height: 18px;
+    margin-left: 40px;
+    margin-top: -20px;
+    /* 12 regular */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height, or 150% */
+    display: flex;
+    align-items: center;
+    text-align: right;
+    letter-spacing: 0.005em;
+    /* Blue/5 */
+    color: #2190CD;
+    /* Inside Auto Layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.phone3_tb2_skk {
+    /* Số điện thoại gửi tin nhắn: */
+    position: absolute;
+    width: 101px;
+    height: 40px;
+    left: 24px;
+    top: 278px;
+    /* 16 Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.phone3_tb2_2_skk {
+    /* Form to type */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 24px 13px 16px;
+    position: absolute;
+    width: 220px;
+    height: 44px;
+    left: 217px;
+    top: 276px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/4 */
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.text_warn1 {
+    /* Ngưỡng cảnh báo rung: */
+    position: absolute;
+    width: 181px;
+    height: 20px;
+    left: 24px;
+    top: 36px;
+    /* 16 Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.box_warn1 {
+    /* Form to type */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 24px 13px 16px;
+    position: absolute;
+    width: 124px;
+    height: 44px;
+    left: 316px;
+    top: 24px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/4 */
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.text_warn2 {
+    /* Ngưỡng cảnh báo rò điện (dòng): */
+    position: absolute;
+    width: 252px;
+    height: 20px;
+    left: 24px;
+    top: 104px;
+    /* 16 Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.box_warn2 {
+    /* Form to type */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 24px 13px 16px;
+    position: absolute;
+    width: 124px;
+    height: 44px;
+    left: 316px;
+    top: 92px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/4 */
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.text_warn3 {
+    /* Ngưỡng cảnh báo khói (mật độ): */
+    position: absolute;
+    width: 247px;
+    height: 20px;
+    left: 24px;
+    top: 172px;
+    /* 16 Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.box_warn3 {
+    /* Form to type */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 24px 13px 16px;
+    position: absolute;
+    width: 124px;
+    height: 44px;
+    left: 316px;
+    top: 160px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/4 */
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.text_warn4 {
+    /* Ngưỡng cảnh báo nhiệt (độ C): */
+    position: absolute;
+    width: 234px;
+    height: 20px;
+    left: 24px;
+    top: 240px;
+    /* 16 Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.box_warn4 {
+    /* Form to type */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 24px 13px 16px;
+    position: absolute;
+    width: 124px;
+    height: 44px;
+    left: 316px;
+    top: 228px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/4 */
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.text_warn5 {
+    /* Cảnh báo PIN (%): */
+    position: absolute;
+    width: 141px;
+    height: 20px;
+    left: 24px;
+    top: 308px;
+    /* 16 Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.box_warn5 {
+    /* Form to type */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 24px 13px 16px;
+    position: absolute;
+    width: 124px;
+    height: 44px;
+    left: 316px;
+    top: 296px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/4 */
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.btnluuCDTB {
+    /* Buttons */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 24px;
+    position: absolute;
+    width: 127px;
+    height: 44px;
+    left: -450px;
+    top: 450px;
+    /* Blue/5 */
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.btnhuyCDTB {
+    /* Buttons */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 24px;
+    position: absolute;
+    width: 127px;
+    height: 44px;
+    left: -600px;
+    top: 450px;
+    /* Blue/5 */
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}

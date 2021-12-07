@@ -1,0 +1,10 @@
+.DBRouterQLTB_GSM1 {
+    background: #F0F8FF;
+    box-shadow: inset 100px -100px 100px rgba(185, 188, 191, 0.123), inset -100px 100px 100px rgba(255, 255, 255, 0.123);
+    backdrop-filter: blur(600px);
+    border-radius: 45px 45px 45px 45px;
+}
+
+.DBRouterQLTB_GSM2 {
+    display: flex;
+}

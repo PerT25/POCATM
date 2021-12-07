@@ -1,0 +1,365 @@
+.tieudeGSM {
+    position: static;
+    width: 400px;
+    height: 30px;
+    margin-left: 160px;
+    margin-top: -25px;
+    /* 24 Extra Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    /* Blue/8 */
+    color: #091F3A;
+    opacity: 0.8;
+    /* Inside Auto Layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.tieudeGSM1 {
+    position: static;
+    width: 150px;
+    height: 20px;
+    margin-left: 10px;
+    /* 16 Extra Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Grey/4 */
+    color: #ACBCD1;
+    /* Inside Auto Layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.chiqua {
+    position: absolute;
+    margin-left: 144px;
+    margin-top: -15px;
+}
+
+.dgs_GSM {
+    /* Điểm giám sát: */
+    position: absolute;
+    width: 116px;
+    height: 20px;
+    left: 347px;
+    top: 154px;
+    /* 16 Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.boxdgs {
+    /* Form to type */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 24px 13px 16px;
+    position: absolute;
+    width: 200px;
+    height: 44px;
+    left: 347px;
+    top: 182px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/4 */
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.apgd_GSM {
+    /* ATM / Phòng giao dịch: */
+    position: absolute;
+    width: 176px;
+    height: 20px;
+    left: 563px;
+    top: 155px;
+    /* 16 Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.boxapgd_GSM {
+    /* dropdown */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+    position: absolute;
+    width: 200px;
+    height: 44px;
+    left: 563px;
+    top: 182px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/4 */
+    border: 1px solid #ACBCD1;
+    border-radius: 8px;
+}
+
+.muixuong {
+    position: absolute;
+    margin-left: 420px;
+    margin-top: -72px;
+}
+
+.knn_GSM {
+    /* Kết nối nguồn: */
+    position: absolute;
+    width: 110px;
+    height: 20px;
+    left: 779px;
+    top: 155px;
+    /* 16 Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.boxknn {
+    /* dropdown */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+    position: absolute;
+    width: 200px;
+    height: 44px;
+    left: 779px;
+    top: 182px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/4 */
+    border: 1px solid #ACBCD1;
+    border-radius: 8px;
+}
+
+.chiqua1 {
+    position: absolute;
+    margin-left: 635px;
+    margin-top: -136px;
+}
+
+.knm_GSM {
+    position: absolute;
+    width: 106px;
+    height: 20px;
+    left: 995px;
+    top: 155px;
+    /* 16 Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.boxknm {
+    /* dropdown */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+    position: absolute;
+    width: 200px;
+    height: 44px;
+    left: 995px;
+    top: 182px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/4 */
+    border: 1px solid #ACBCD1;
+    border-radius: 8px;
+}
+
+.chiqua2 {
+    position: absolute;
+    margin-left: 850px;
+    margin-top: -180px;
+}
+
+.tim_GSM {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 24px;
+    position: absolute;
+    width: 82px;
+    height: 44px;
+    left: 1420px;
+    top: 182px;
+    /* Blue/5 */
+    background: #2190CD;
+    /* Blue/5 */
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.btntimkiem_GSM {
+    /* Label */
+    position: static;
+    width: 30px;
+    height: 20px;
+    margin-left: 4px;
+    margin-top: 13px;
+    /* 16 Extra Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    /* Text/White */
+    color: #FFFFFF;
+}
+
+.themmoi_GSM {
+    /* Buttons */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 24px;
+    position: absolute;
+    width: 138px;
+    height: 44px;
+    left: 1750px;
+    top: 182px;
+    /* Blue/5 */
+    background: #2190CD;
+    /* Blue/5 */
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.btnthemmoi_GSM {
+    /* Label */
+    position: static;
+    width: 120px;
+    height: 20px;
+    margin-left: 35px;
+    margin-top: 13px;
+    /* 14 Extra bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.002em;
+    /* White */
+    color: #FFFFFF;
+    /* Inside Auto Layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.cb_GSM {
+    /* Cảnh báo: */
+    position: absolute;
+    width: 78px;
+    height: 20px;
+    left: 1211px;
+    top: 155px;
+    /* 16 Bold */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    /* Blue/7 */
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.boxcb {
+    /* dropdown */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+    position: absolute;
+    width: 200px;
+    height: 44px;
+    left: 1211px;
+    top: 182px;
+    /* White */
+    background: #FFFFFF;
+    /* Grey/4 */
+    border: 1px solid #ACBCD1;
+    border-radius: 8px;
+}
+
+.chiqua3 {
+    position: absolute;
+    margin-left: 1070px;
+    margin-top: -225px;
+}

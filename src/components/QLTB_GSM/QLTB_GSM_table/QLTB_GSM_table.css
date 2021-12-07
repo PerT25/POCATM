@@ -1,0 +1,68 @@
+.Table_GSM {
+    position: absolute;
+    width: 1500px;
+    height: 718px;
+    left: 340px;
+    top: 250px;
+    /* White */
+    background: #FFFF;
+    border-radius: 16px;
+}
+
+.line7 {
+    margin-left: 2px;
+    position: absolute;
+}
+
+.V8 {
+    margin-left: 4px;
+}
+
+.v10 {
+    position: absolute;
+    margin-left: 24px;
+}
+
+thead[class*="ant-table-thead"] th {
+    background-color: #EAF5FA !important;
+    padding: 10px 10px 10px 10px;
+    color: #1085C5;
+    border: none;
+}
+
+.v1 {
+    position: absolute;
+}
+
+.v2 {
+    position: absolute;
+    margin-left: 30px;
+}
+
+.v3 {
+    position: absolute;
+    margin-left: 60px;
+}
+
+.v4 {
+    position: absolute;
+    margin-left: 90px;
+}
+
+.v8 {
+    position: absolute;
+    margin-left: 0px;
+}
+
+.v9 {
+    position: absolute;
+    margin-left: 30px;
+}
+
+.blu0 {
+    color: #347AFF;
+}
+
+.re0 {
+    color: #FF5B5B;
+}

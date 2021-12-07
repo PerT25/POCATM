@@ -70,10 +70,12 @@ export default function Sidebar() {
                                 Quyền truy cập
                             </li>
                             </Link>
+                            <Link to="/qltbgsm" className="link">
                             <li className="SidebarListItem" >
                                 <img src={IconSystem1} alt="" className="IconDashBroad"/>
                                 Quản lý thiết bị GSM
                             </li>
+                            </Link>
                             <Link to ="/Quanlyhethong/QLND" className="Link">
                             <li className="SidebarListItem" >
                                 <img src={IconSytem2} alt="" className="IconDashBroad"/>
