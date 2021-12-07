@@ -87,7 +87,7 @@ export default function QLTB_CDTB_table() {
                     <br />
                     <div className="nutca2">
                         <Link to="/qltbgsm" className="quaylai">
-                            <button type="button" className="btnluuCDTB">
+                            <button type="submit" className="btnluuCDTB">
                                 <p className="btnluuCDTB1">Lưu</p>
                             </button>
                         </Link>

@@ -826,8 +826,20 @@
     border: 1px solid #2190CD;
     box-sizing: border-box;
     border-radius: 8px;
+    background: #2190CD;
+    cursor: pointer;
 }
-
+.btnluuCDTB1{
+    width: 125px;
+    height: 20px;
+    padding:10px 15px 20px 0px;
+    color: #FFFFFF;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+}
 .btnhuyCDTB {
     /* Buttons */
     /* Auto Layout */
@@ -845,4 +857,15 @@
     border: 1px solid #2190CD;
     box-sizing: border-box;
     border-radius: 8px;
+    background: #F0F8FF;
+    cursor: pointer;
+}
+.btnhuyCDTB1{
+    padding:30px 25px 20px 20px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2190CD;
 }

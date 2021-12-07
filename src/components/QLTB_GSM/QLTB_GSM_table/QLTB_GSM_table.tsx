@@ -480,31 +480,37 @@ export default function QLTM_GSB_table() {
             title: 'Loại GSM',
             dataIndex: 'type',
             key: 'type',
-            width: 200
+            width: 200,
         },
         {
             title: 'Địa chỉ',
             dataIndex: 'address',
             key: 'address',
-            width: 800
+            width:700,
 
         },
         {
             title: 'Trạng Thái',
             dataIndex: 'icon',
             key: 'icon',
-            width: 100
+            width: 100,
         },
         {
             title: '',
             dataIndex: 'icon2',
             key: 'icon2',
+            width:80,
         },
     ];
 
     return (
         <div className="Table_GSM">
+            <div className="TableGSM_WrapperData">
             <Table columns={columns} dataSource={dataSource} pagination={{ showSizeChanger: false, defaultCurrent: 2, total: 10000, pageSize: 100 }} className="TableQLCBdata" />
+            <div className="TextWrapper_Table">
+                    Hiển thị <div className="NumberTextWrapper_TableData"> 14 </div> hàng trong mỗi trang
+                </div>
+            </div>
         </div>
     )
 }

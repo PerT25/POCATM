@@ -1,7 +1,7 @@
 .Table_GSM {
     position: absolute;
     width: 1500px;
-    height: 718px;
+    height: 930px;
     left: 340px;
     top: 250px;
     /* White */
@@ -65,4 +65,26 @@ thead[class*="ant-table-thead"] th {
 
 .re0 {
     color: #FF5B5B;
+}
+.TableGSM_WrapperData{
+    padding:20px 24px 0px 24px;
+}
+.TextWrapper_Table{
+    position:absolute;
+    top:850px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 18px;
+    color: #114A69;
+    opacity: 0.7;
+    display: flex;
+}
+.NumberTextWrapper_TableData{
+    border: 1px solid #6CB6DD;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-right: 5px;
+    margin-left: 5px
 }
