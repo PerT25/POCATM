@@ -1,0 +1,74 @@
+.GSMHeaderTitle{
+    width: 217px;
+    height: 30px;
+    
+    /* 24 Extra Bold */
+    
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    
+    /* Blue/8 */
+    
+    color: #091F3A;
+    
+    opacity: 0.8;
+    
+    /* Inside Auto Layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 34px;
+}
+.WrapperSearch{
+    display: flex;
+}
+.SearchTitle{
+    margin: 35px 34px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #114A69;
+    opacity: 0.8;
+}
+.SearchForm{
+    margin: 20px 0px;
+}
+.SearchInput{
+    width: 436px;
+    height: 44px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 11px 16px 13px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    border: none;
+}
+.SearchButton{
+    position: absolute;
+    width:35px;
+    height: 40px;
+    left:   875px;
+    top: 140px;
+    float: right;
+    padding: 6px 10px;
+    margin-bottom: 50px;  
+    margin-right: 16px;
+    background: #FFFFFF;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+.SearchIcon{
+    width: 24px;
+    height: 24px;
+}

@@ -1,0 +1,648 @@
+.DashBroadFooter{
+    margin-top: 2%;
+}
+.DBFWrapper{
+    display: flex;
+    justify-content: space-between;
+}
+/*Wrapper Left*/
+.DBFWrapperLeft{
+    width: 755px;
+    height: 450px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    position: relative;
+    left: 24px;
+}
+.DBFleftTitle{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    margin:24px 0px 0px 24px;
+}
+.WrapperHeaderLeft{
+    margin:15px 15px 0px 0px;
+}
+.WrapperHeaderLeft1{
+    position: absolute;
+    background: #EAF5FA;
+    border-radius: 8px;
+    width: 224px;
+    height: 92px;
+    left: 24px;
+}
+/*Temperature*/
+.Thermometer{
+    position: absolute;
+    padding-top: 22px;
+    left: 10px;
+}
+.Temperature{
+    position: absolute;
+    padding-top: 22px;
+    left: 70px;
+
+    /*Font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: #1085C5;
+}
+.TemperatureDevice{
+    position: absolute;
+    padding-top: 42px;
+    left: 70px;
+
+    /*Font*/
+    color: #091F3A;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+/*Smoke*/
+.WrapperHeaderLeft2{
+    position: absolute;
+    background: #EAF5FA;
+    border-radius: 8px;
+    width: 224px;
+    height: 92px;
+    left: 265px;
+}
+.Smoke{
+    position: absolute;
+    padding-top: 22px;
+    left: 10px;
+}
+.Smoke1{
+    position: absolute;
+    padding-top: 22px;
+    left: 70px;
+
+    /*Font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: #1085C5;
+}
+.SmokeDevice{
+    position: absolute;
+    padding-top: 42px;
+    left: 70px;
+
+    /*Font*/
+    color: #091F3A;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+/*Phone*/
+.WrapperHeaderLeft3{
+    position: absolute;
+    background: #EAF5FA;
+    border-radius: 8px;
+    width: 224px;
+    height: 92px;
+    left: 505px;
+}
+.Phone{
+    position: absolute;
+    padding-top: 22px;
+    left: 10px;
+}
+.Phone1{
+    position: absolute;
+    padding-top: 22px;
+    left: 70px;
+
+    /*Font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: #1085C5;
+}
+.PhoneDevice{
+    position: absolute;
+    padding-top: 42px;
+    left: 70px;
+
+    /*Font*/
+    color: #091F3A;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+/*End-Wrapper Header Left*/
+
+/*Wrapper Content Left*/
+.WrapperContentLeft{
+    margin:135px 25px 0px 0px;
+}
+.WrapperContentLeft1{
+    position: absolute;
+    background: #EAF5FA;
+    border-radius: 8px;
+    width: 224px;
+    height: 92px;
+    left: 24px;
+}
+/*Move*/
+.Move{
+    position: absolute;
+    padding-top: 22px;
+    left: 10px;
+}
+.Move1{
+    position: absolute;
+    padding-top: 22px;
+    left: 70px;
+
+    /*Font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: #1085C5;
+}
+.MoveDevice{
+    position: absolute;
+    padding-top: 42px;
+    left: 70px;
+
+    /*Font*/
+    color: #091F3A;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+/*End-Move*/
+
+/*Electric*/
+.WrapperContentLeft2{
+    position: absolute;
+    background: #EAF5FA;
+    border-radius: 8px;
+    width: 224px;
+    height: 92px;
+    left: 265px;
+}
+/*Move*/
+.Electric{
+    position: absolute;
+    padding-top: 22px;
+    left: 10px;
+}
+.Electric1{
+    position: absolute;
+    padding-top: 22px;
+    left: 70px;
+
+    /*Font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: #1085C5;
+}
+.ElectricDevice{
+    position: absolute;
+    padding-top: 42px;
+    left: 70px;
+
+    /*Font*/
+    color: #091F3A;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+/*End-Electric*/
+
+/*Windows*/
+.WrapperContentLeft3{
+    position: absolute;
+    background: #EAF5FA;
+    border-radius: 8px;
+    width: 224px;
+    height: 92px;
+    left: 505px;
+}
+.Windows{
+    position: absolute;
+    padding-top: 22px;
+    left: 10px;
+}
+.Windows1{
+    position: absolute;
+    padding-top: 22px;
+    left: 70px;
+
+    /*Font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: #1085C5;
+}
+.WindowsDevice{
+    position: absolute;
+    padding-top: 42px;
+    left: 70px;
+
+    /*Font*/
+    color: #091F3A;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+/*End-Windows*/
+/*End-Wrapper Content Left*/
+
+/*Wrapper Footer Left*/
+.WrapperFooterLeft{
+    margin:255px 25px 0px 0px;
+}
+/*WarningWindowsOuteSide*/
+.WrapperFooterLeft1{
+    position: absolute;
+    background: #EAF5FA;
+    border-radius: 8px;
+    width: 224px;
+    height: 92px;
+    left: 24px;
+}
+.WarningWindowOuteSide{
+    position: absolute;
+    padding-top: 22px;
+    left: 10px;
+}
+.WarningWindowOuteSide1{
+    position: absolute;
+    padding-top: 22px;
+    left: 70px;
+
+    /*Font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: #1085C5;
+}
+.WarningWindowOuteSideDevice{
+    position: absolute;
+    padding-top: 42px;
+    left: 70px;
+
+    /*Font*/
+    color: #091F3A;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+/*End-WarningWindowsOuteSide*/
+/*Warning Windows*/
+.WrapperFooterLeft2{
+    position: absolute;
+    background: #EAF5FA;
+    border-radius: 8px;
+    width: 224px;
+    height: 92px;
+    left: 265px;
+}
+.WarningWindow{
+    position: absolute;
+    padding-top: 22px;
+    left: 10px;
+}
+.WarningWindow1{
+    position: absolute;
+    padding-top: 22px;
+    left: 70px;
+
+    /*Font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: #1085C5;
+}
+.WarningWindowDevice{
+    position: absolute;
+    padding-top: 42px;
+    left: 70px;
+
+    /*Font*/
+    color: #091F3A;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+/*End-Warning Windows*/
+/*End-Wrapper Footer Left*/
+/*End-DBFWrapperLeft*/
+
+/*DBFWrapper Right*/
+.DBFWrapperRight{
+    width: 755px;
+    height: 450px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    position: relative;
+    right: 24px;
+}
+.DBFRightTitle{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    margin:24px 0px 0px 24px;
+}
+.WrapperHeaderRight{
+    margin:15px 15px 0px 0px;
+}
+/*Bell*/
+.WrapperHeaderRight1{
+    position: absolute;
+    background: #EAF5FA;
+    border-radius: 8px;
+    width: 224px;
+    height: 92px;
+    left: 24px;
+}
+.Bell{
+    position: absolute;
+    padding-top: 22px;
+    left: 10px;
+}
+.Bell1{
+    position: absolute;
+    padding-top: 22px;
+    left: 70px;
+
+    /*Font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: #1085C5;
+}
+.BellDevice{
+    position: absolute;
+    padding-top: 42px;
+    left: 70px;
+
+    /*Font*/
+    color: #091F3A;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+/*End-Bell*/
+
+/*WarningIntrusion*/
+.WrapperHeaderRight2{
+    position: absolute;
+    background: #EAF5FA;
+    border-radius: 8px;
+    width: 224px;
+    height: 92px;
+    left: 265px;
+}
+.WarningIntrusion{
+    position: absolute;
+    padding-top: 22px;
+    left: 10px;
+}
+.WarningIntrusion1{
+    position: absolute;
+    padding-top: 22px;
+    left: 70px;
+
+    /*Font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: #1085C5;
+}
+.WarningIntrusionDevice{
+    position: absolute;
+    padding-top: 42px;
+    left: 70px;
+
+    /*Font*/
+    color: #091F3A;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+/*End-WarningIntrusion*/
+
+/*MoveYellow*/
+.WrapperHeaderRight3{
+    position: absolute;
+    background: #EAF5FA;
+    border-radius: 8px;
+    width: 224px;
+    height: 92px;
+    left: 505px;
+}
+.MoveYellow{
+    position: absolute;
+    padding-top: 22px;
+    left: 10px;
+}
+.MoveYellow1{
+    position: absolute;
+    padding-top: 22px;
+    left: 70px;
+
+    /*Font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: #1085C5;
+}
+.MoveYellowDevice{
+    position: absolute;
+    padding-top: 42px;
+    left: 70px;
+
+    /*Font*/
+    color: #091F3A;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+/*End-MoveYellow*/
+/*End-WrapperHeaderRight*/
+
+/*WrapperContentRight*/
+.WrapperContentRight{
+    margin:135px 25px 0px 0px;
+}
+/*GSM*/
+.WrapperContentRight1{
+    position: absolute;
+    background: #EAF5FA;
+    border-radius: 8px;
+    width: 224px;
+    height: 92px;
+    left: 24px;
+}
+.GSM{
+    position: absolute;
+    padding-top: 22px;
+    left: 10px;
+}
+.GSM1{
+    position: absolute;
+    padding-top: 22px;
+    left: 70px;
+
+    /*Font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: #1085C5;
+}
+.GSMDevice{
+    position: absolute;
+    padding-top: 42px;
+    left: 70px;
+
+    /*Font*/
+    color: #091F3A;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+/*End-GSM*/
+
+/*SmokeWarning*/
+.WrapperContentRight2{
+    position: absolute;
+    background: #EAF5FA;
+    border-radius: 8px;
+    width: 224px;
+    height: 92px;
+    left: 265px;
+}
+.SmokeWarning{
+    position: absolute;
+    padding-top: 22px;
+    left: 10px;
+}
+.SmokeWarning1{
+    position: absolute;
+    padding-top: 22px;
+    left: 70px;
+
+    /*Font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: #1085C5;
+}
+.SmokeWarningDevice{
+    position: absolute;
+    padding-top: 42px;
+    left: 70px;
+
+    /*Font*/
+    color: #091F3A;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+/*End-SmokeWarning*/
+/*Warning Phone*/
+.WrapperContentRight3{
+    position: absolute;
+    background: #EAF5FA;
+    border-radius: 8px;
+    width: 224px;
+    height: 92px;
+    left: 505px;
+}
+.PhoneWarning{
+    position: absolute;
+    padding-top: 22px;
+    left: 10px;
+}
+.PhoneWarning1{
+    position: absolute;
+    padding-top: 22px;
+    left: 70px;
+
+    /*Font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: #1085C5;
+}
+.PhoneWarningDevice{
+    position: absolute;
+    padding-top: 42px;
+    left: 70px;
+
+    /*Font*/
+    color: #091F3A;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+/*End-Warning Phone*/
+/*End-WrapperContentRight*/
+/*End-DBFWrapper Right*/

@@ -1,0 +1,218 @@
+/*Wrapper*/
+.DBCWrapper{
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-between;
+}
+/*Left*/
+.DBCWLItemsLeft{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px 20px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    width: 754px;
+    height: 227px;
+}
+/*Device*/
+.Devicecolor{
+
+    /* Inside Auto Layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-left: 50%;
+    margin-top: -50px;
+}
+.IconDevice{
+    padding-top: 12px;
+    padding-left: 12px;
+}
+.DeviceTitle{
+    margin-left: 75px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 10px;
+    color: #ACBCD1;
+}
+.DeviceTitle1{
+    margin-left: 80px;
+    margin-top: 10px;
+    font-family: Mulish;
+    font-style: normal;
+}
+/*ATM*/
+.ATMcolor{
+    margin-top: -50px;
+    margin-left: -190px;
+}
+.IconATM{
+
+    padding-top: 12px;
+    padding-left: 12px;
+}
+.ATMTitle{
+/* 14 Bold */
+
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 20px;
+color: #ACBCD1;
+/* identical to box height, or 143% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.002em;
+    margin-top: 10px;
+    margin-left: -170px;
+}
+.ATMTitle1{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 10px;
+    margin-left: -200px;
+}
+/*Transaction*/
+.transactioncolor{
+    margin-top: -50px;
+    margin-left: -190px;
+}
+.BankIcon{
+
+    padding-top: 12px;
+    padding-left: 12px;
+}
+.transactionTitle{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 10px;
+    margin-left: -210px;
+    color: #ACBCD1;
+}
+.transactionTitle1{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 12px;
+    margin-left: -190px;
+}
+/*End Left*/
+/*lineside*/
+.lineside{
+    margin-left: -150px;
+    margin-top: -20px;
+}
+.lineside1{
+    margin-left: -300px;
+    margin-top: -20px;
+}
+.lineside2{
+    margin-left: 200px;
+    margin-top: -110px;
+}
+.lineside3{
+    margin-left: 450px;
+    margin-top: -110px;
+}
+/*Right*/
+.DBCWRight {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex: auto;
+    width: 750px;
+    height: 227px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    margin: 15px 20px;
+}
+.DBCWRightTitle{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 32px;
+}
+/*ConnectAC */
+.ConnectAC{
+    margin-top: 24px;
+    margin-left: 32px;
+}
+.IconConnectAC{
+    margin-top: 10px;
+    margin-left: 7px;
+}
+
+.ConnectACTitle{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #ACBCD1;
+
+    display: flex;
+    align-items: center;
+}
+/*Connecting*/
+.Connecting{
+    margin-top: -118px;
+    margin-left: 275px;
+}
+.IconConnecting{
+    margin-top: 10px;
+    margin-left: 7px;
+}
+.ConnectingTitle{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #ACBCD1;
+
+    display: flex;
+    align-items: center;
+}
+/*Warning*/
+.WarningOn{
+    margin-top: -118px;
+    margin-left: 525px;
+}
+.IconWarning{
+    margin-top: 10px;
+    margin-left: 7px;
+}
+.WarningTitle{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #ACBCD1;
+
+    display: flex;
+    align-items: center;
+}
+/*End Right*/

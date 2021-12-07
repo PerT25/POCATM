@@ -1,0 +1,237 @@
+.Login{
+    position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+border-radius: 50px 50px 50px 50px;
+background: #F0F8FF;
+box-shadow: inset 100px -100px 100px rgba(185, 188, 191, 0.123), inset -100px 100px 100px rgba(255, 255, 255, 0.123);
+backdrop-filter:blur(600px);
+}
+.Logo
+{
+    width: 75px;
+    height: 75px;
+    background: #FF2D55;
+    border-radius: 40px 40px 40px 40px;
+    position: absolute;
+}
+.Licon1
+{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.Content
+{
+    position: absolute;
+    width: 1542px;
+    height: 800px;
+    left: 189px;
+    top: 140px;
+    display: flex;
+
+background:white;
+border-radius: 32px;
+}
+.iconpicture{
+    width: 770px;
+height: 752px;
+
+margin-bottom: 35%;
+margin-right: 50px;
+position: relative;
+
+/* angular */
+
+background: conic-gradient(from 76.92deg at 50% 50%, #C5FFFB -73.21deg, #E4E9FE 2.5deg, #A9D7FF 81.36deg, #89DCFF 143.29deg, #A9C6FF 207.16deg, #C5FFFB 286.79deg, #E4E9FE 362.5deg);
+opacity: 0.5;
+border-radius: 18px;
+}
+.Contentleft{
+    flex: 5;
+    width: 776px;
+    height: 752px;
+    left: 24px;
+    top: 24px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.ContentRight{
+    flex:5;
+}
+.ContentRTLogin{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 50px;
+    
+    margin-top: 15%;
+    text-align: center;
+    margin-right: 25%;
+    color: #091F3A;
+}
+.ContentRlogin{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+}
+.ContentRloginUser{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    margin-right: 32%;
+    color: #091F3A;
+    opacity: 0.6;
+}
+.ContentRloginUserName{
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #347AFF;
+    box-sizing: border-box;
+    backdrop-filter: blur(100px);
+    width: 356px;
+    height: 48px;
+    margin-top: 5px;
+}
+.CotentRloginPass{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    margin-right: 37%;
+    color: #091F3A;
+    opacity: 0.6;
+}
+.ContentRloginPassWord{
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #347AFF;
+    box-sizing: border-box;
+    backdrop-filter: blur(100px);
+    width: 356px;
+    height: 48px;
+    margin-top: 5px;
+}
+.ContentRloginchkpass{
+    border: 1.5px solid #2190CD;
+    box-sizing: border-box;
+    align-items: left;
+}
+.ContentRloginsavepass{
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin-right:25%;
+    color: #091F3A;
+    opacity: 0.8;
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+.ContentRLoginbtn{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 32px;
+
+position: absolute;
+width: 163px;
+height: 55px;
+left: 1116px;
+top: 476px;
+
+/* Blue/5 */
+
+background: #2190CD;
+/* Blue/5 */
+
+border: 1px solid #2190CD;
+box-sizing: border-box;
+border-radius: 8px;
+}
+.ContentRloginbtnText{
+    position: static;
+    width: 99px;
+    height: 23px;
+    left: calc(50% - 99px/2);
+    top: calc(50% - 23px/2);
+    
+    /* 18 Extra Bold */
+    
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    cursor: pointer;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    /* Text/White */
+    
+    color: #FFFFFF;
+    
+    
+    /* Inside Auto Layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+.ContentLatm{
+    margin-top: 10%;
+    margin-left: 16%;
+    height: 600px;
+    position: absolute;
+    z-index: 1;
+}
+.ContentLShadowATM{
+    position: absolute;
+    z-index: 0;
+    margin-top: 35%;
+    opacity: 0.9;
+}
+.ContentLf923{
+    position: absolute;
+    z-index: 1;
+    margin-top: 3%;
+    margin-left: 30px;
+}
+.ContentLf924{
+    position: absolute;
+    z-index: 2;
+    margin-top: 15%;
+    margin-left: 43%;
+}
+.ContentLf931{
+    position: absolute;
+    z-index: 2;
+    margin-top: 32%;
+    margin-left: 30%;
+}
+.qmk{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #1085C5;
+    position: absolute;
+    z-index: 2;
+    margin-top: 20%;
+    margin-left: 22%;
+    cursor: pointer;
+}

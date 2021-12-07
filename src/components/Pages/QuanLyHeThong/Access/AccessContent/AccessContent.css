@@ -1,0 +1,45 @@
+.UpdateAccess{
+    position: static;
+    width: 62px;
+height: 20px;
+left: calc(50% - 62px/2 - 12px);
+top: calc(50% - 20px/2);
+color: #347AFF;
+letter-spacing: 0.002em;
+/*font */
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+cursor:pointer;
+}
+
+.TableAccessContent{
+    border:none
+}
+.WrapperAcessContent{
+    background: #FFFFFF;
+    border-radius: 16px;
+    width: 1541px;
+    height: 315px;
+    margin:24px 34px 20px 34px;
+}
+.DeleteAccess{
+    position: static;
+width: 27px;
+height: 20px;
+left: calc(50% - 27px/2 - 12px);
+top: calc(50% - 20px/2);
+cursor: pointer;
+/*font*/
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 20px;
+/*color*/
+color: #FF5B5B;
+}
+.WrapperTableAccessContent{
+    padding:20px 24px 0px 24px;
+}

@@ -1,0 +1,188 @@
+.Wrapper12{
+    display: flex;
+    justify-content: space-between;
+}
+.Wrapper1{
+    margin:24px 0px 10px 32px;
+}
+.TitleWrapper1{
+    width: 128px;
+    height: 23px;
+    /*font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    /*color*/
+    color: #114A69;
+    opacity: 0.8;
+}
+/*Content Wrapper*/
+.ContentWrapper{
+    width: 597px;
+    height: 288px;
+    background: #FFFFFF;
+    border-radius: 16px;}
+.IdContent{
+    display: flex;
+}
+.iduser{
+    text-align:left;
+    margin-left: 20px;
+    margin-top:10px;
+    /*font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /*color*/
+    color: #114A69;
+    opacity: 0.8;
+}
+.inforiduser{
+    margin-left: 40px;
+    display: flex;
+    align-items: center;
+    /*font and color*/
+    color: #091F3A;
+    opacity: 0.8;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+.balanceFont{
+    margin-left: 57px;
+    margin-top:10px;
+        /*font and color*/
+        color: #091F3A;
+        opacity: 0.8;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+}
+.IconGreen{
+    margin-right: 5px;
+}
+.balanceiduser{
+    margin-left: 115px;
+    margin-top:10px;
+        /*font and color*/
+        color: #091F3A;
+        opacity: 0.8;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+}
+.timeaccess{
+    margin-top:15px;
+    margin-left:20px;
+    /*font and color*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    color: #347AFF;
+    opacity: 0.8;
+}
+/*End Wrapper 1*/
+
+/*Wrapper 2*/
+.TitleWrapper2{
+    width: 160px;
+    height: 23px;
+    /*font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    /*color*/
+    color: #114A69;
+    opacity: 0.8;
+    /*margin*/
+    margin-left: -400px;
+    margin-top:24px;
+}
+.ContentWrapper2{
+    background: #FFFFFF;
+    border-radius: 16px;
+    width: 440px;
+    height: 288px;
+    margin-left: -430px;
+}
+.WrapperTemp{
+    display: flex;
+    justify-content: space-between;
+}
+.WrapperTempLeft{
+    margin-left: 40px;
+    margin-top:10px;
+}
+.WrapperTempRight{
+    margin-right: 50px;
+    margin-top:10px;
+}
+.Nhietdo{
+    margin-left: 10px;
+    width: 87px;
+    height: 20px;
+    color: #114A69;
+    opacity: 0.8;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 20px;
+}
+.TextStatus{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    color: #091F3A;
+    opacity: 0.5;
+
+}
+.TextStatus.negative{
+    color: red;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+}
+/*End Wrapper 2*/
+.Warning{
+    width: 160px;
+    height: 23px;
+    /*font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    /*color*/
+    color: #114A69;
+    opacity: 0.8;
+    /*margin*/
+    margin-left: -400px;
+    margin-top:24px;
+}
+.ContentWrapper3{
+    background: #FFFFFF;
+    border-radius: 16px;
+    width: 440px;
+    height: 288px;
+    margin-left: -430px;
+    margin-right:20px;
+}

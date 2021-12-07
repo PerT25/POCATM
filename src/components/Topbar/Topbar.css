@@ -1,0 +1,85 @@
+/*Wrapper*/
+.TopSidebar{
+    width: 100%;
+    height: 50px;
+    position: relative;
+}
+.TopSideWrapper{
+    height: 100%;
+    padding: 0px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+/*End-Wrapper*/
+
+/*Right*/
+.TopSideRight{
+    position: absolute;
+    right: 32px;
+    top: 20px
+}
+/*TopbarIconsLanguage*/
+.TopSidebaricons{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.TopSidebariconsLanguage{
+    font-size: 15px;
+    background: #EAF5FA;
+    width: 85px;
+    height: 44px;
+/* Blue/6 */
+
+border: 1px solid #1085C5;
+box-sizing: border-box;
+border-radius: 8px;
+ display: flex;
+ color: #1085C5;
+ background: #EAF5FA;
+}
+.iconVN{
+    margin-left: 5px;
+    padding-top: 10px;
+    width: 20px;
+    height: 30px;
+}
+.DropDownIconLangguage{
+    width: 20px;
+    height: 27px;
+    padding-top: 10px;
+    margin-right: 6px;
+}
+/*End-TopbarIconsLanguage*/
+
+/*Name and Picture*/
+.WriteLanguage{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    padding-top: 9px;
+    margin-left: 7px;
+}
+.PictureAvatar{
+    border-radius: 50%;
+    width: 44px;
+    height: 44px;
+    margin-left: 20px;
+    margin-right: 7px;
+}
+.Nameandpicture{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.NameAvatar{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    margin-right: 5px;
+    margin-top:15px
+}

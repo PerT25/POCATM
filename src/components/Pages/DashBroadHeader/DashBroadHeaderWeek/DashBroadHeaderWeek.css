@@ -1,0 +1,164 @@
+
+/*Title*/
+.NameTitle{
+    /* 24 Extra Bold */
+    
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    margin-left: 34px;
+    
+    /* Blue/8 */
+    
+    color: #091F3A;
+    }
+    .DateTitle{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+    
+    /* Blue/6 */
+    margin:10px 0px 0px 34px;
+    color: #1085C5;
+    }
+    /*End Title*/
+    
+    /*Left*/
+    .DBHWrapper1{
+        display: flex;
+        justify-content: space-between;
+    }
+    .DBHeaderLeft{
+        margin: 24px 0px 0px 34px;
+        border: 1px solid #1085C5;
+        width: 300px;
+        height: 28px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 0px;
+        color: #1085C5;
+        border-radius: 24px;
+    }
+    .LinkDate{
+        padding-top: 5px;
+        padding-left: 20px;
+        display: flex;
+        height: 28px;
+        width: 15px;
+        flex: 2;
+        text-align: center;
+    }
+    .LinkDate:hover{
+        border: 1px;
+        background-color: #1085C5;
+        color: white;
+        border-radius: 12px;
+        order: 0px;
+        align-items:flex-start;
+        cursor: pointer;
+    }
+    .LinkWeek{
+        display: flex;
+        padding-top: 5px;
+        padding-left: 20px;
+        height: 28px;
+        width: 15px;
+        flex: 2;
+        text-align: center;
+    }
+    .LinkWeek:hover{
+        border: 1px;
+        background-color: #1085C5;
+        color: white;
+        border-radius: 12px;
+        width: 15px;
+        order: 0px;
+        align-items:flex-start;
+        cursor: pointer;
+    }
+    .LinkWeek.active{
+        background-color: #1085C5;
+        color: white;
+        border-radius: 12px;
+    }
+    .LinkMonth{
+        display: flex;
+        padding-top: 5px;
+        padding-left: 20px;
+        height: 28px;
+        width: 15px;
+        flex: 2;
+        text-align: center;
+    }
+    .LinkMonth:hover{
+        border: 1px;
+        background-color: #1085C5;
+        color: white;
+        border-radius: 12px;
+        width: 15px;
+        order: 0px;
+        align-items:flex-start;
+        cursor: pointer;
+    }
+    .LinkYear{
+        display: flex;
+        padding-top: 5px;
+        padding-left: 20px;
+        height: 28px;
+        width: 15px;
+        flex: 2;
+        text-align: center;
+    }
+    .LinkYear:hover{
+        border: 1px;
+        background-color: #1085C5;
+        color: white;
+        border-radius: 12px;
+        width: 15px;
+        order: 0px;
+        align-items:flex-start;
+        cursor: pointer;
+    }
+    /*End Left */
+    
+    /*Right*/
+    .DBHeaderRight{
+        margin: 24px 0px 0px 34px;
+        display: flex;
+    }
+    .DBHRTitle{
+        color: #1085C5;
+        opacity: 0.8;
+        display: flex;
+    align-items: center;
+        margin-right: 16px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .DBHLDate.active{
+        color: #FFFFFF;
+        background: #2190CD;
+        border-radius: 12px;
+    }
+    .DateWeekpicker{
+        padding: 8px 12px;
+        border: 1px solid #ACBCD1;
+        border-radius: 8px;
+        margin-right:15px;
+    }
+    /*End Right*/

@@ -1,0 +1,122 @@
+.TitleAccessHeader{
+    display: flex;
+    margin: 0px 0px 0px 34px;
+}
+.TitleAccessHeaderchild1{
+    width: 125px;
+    height: 20px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;   
+    color: #ACBCD1;
+    margin: 5px 1px; 
+}
+.TitleAccessHeaderchild2{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    color: #091F3A;
+    opacity: 0.8;
+}
+.WrapperAccessHeaderContent{
+    display: flex;
+}
+.AccessHeaderTextandInput{
+    margin: 18px 0px 0px 34px;
+}
+.QTCAccessHeader{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    width: 150px;
+    height: 20px;
+    color: #114A69;
+    opacity: 0.8;
+    margin-right:70px;
+}
+.QTCAccessHeaderinput{
+    padding: 11px 24px 13px 16px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 233px;
+    height: 44px;
+    border:none;
+    margin: 0px 16px 0px 32px;
+}
+.SearchAccessHeader{
+    position: absolute;
+    width: 82px;
+    height: 44px;
+    background: #2190CD;
+/* Blue/5 */
+
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+.AccessHeaderSearchText{
+    position: static;
+    width: 30px;
+    height: 20px;
+    padding:20px 25px 15px 15px;
+    
+    /* 18 Extra Bold */
+    
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    cursor: pointer;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    /* Text/White */
+    
+    color: #FFFFFF;
+}
+.AddAccessHeader{
+    position: absolute;
+    width: 125px;
+    height: 44px;
+    background: #2190CD;
+/* Blue/5 */
+
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+    right:50px;
+}
+.TextAddAccessHeader{
+    position: static;
+    width: 125px;
+    height: 20px;
+    padding:20px 25px 15px 15px;
+    
+    /* 18 Extra Bold */
+    
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    cursor: pointer;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    /* Text/White */
+    
+    color: #FFFFFF;
+}

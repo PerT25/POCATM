@@ -1,0 +1,228 @@
+.TitleWrapper{
+    width: 217px;
+    height: 30px;
+    
+    /* 24 Extra Bold */
+    
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    align-items: center;
+    
+    /* Blue/8 */
+    
+    color: #091F3A;
+    
+    opacity: 0.8;
+    
+    /* Inside Auto Layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0px 0px 34px;
+}
+.WrapperContent{
+    margin: 18px 0px 0px 34px;
+}
+.TitleWrapperContent{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    width: 150px;
+    height: 20px;
+    color: #114A69;
+    opacity: 0.8;
+    margin-right:70px;
+}
+.KVTitleWrapperContent{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    width: 150px;
+    height: 20px;
+    color: #114A69;
+    opacity: 0.8;
+    margin-right:200px;
+}
+.LCBTitleWrapperContent{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    width: 150px;
+    height: 20px;
+    color: #114A69;
+    opacity: 0.8;
+    margin-right:205px;
+}
+.TTTitleWrapperContent{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    width: 150px;
+    height: 20px;
+    color: #114A69;
+    opacity: 0.8;
+    margin-right:80px;
+}
+.TGTitleWrapperContent{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    width: 150px;
+    height: 20px;
+    color: #114A69;
+    opacity: 0.8;
+    
+}
+.GSMinput{
+    padding: 11px 24px 13px 16px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 200px;
+    height: 44px;
+    border:none;
+    margin: 0px 16px 0px 0px;
+}
+.KVinput{
+    padding: 11px 24px 13px 16px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 336px;
+    height: 44px;
+    margin-right:16px;
+    border:none;
+}
+.LCBinput{
+    padding: 11px 24px 13px 16px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 340px;
+    height: 44px;
+    border:none;
+    margin-right:16px;
+}
+.TTinput{
+    padding: 11px 24px 13px 16px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 200px;
+    height: 44px;
+    border:none;
+    margin-right:20px;
+}
+.DateWeekPickerInput{
+    padding: 11px 24px 13px 16px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 200px;
+    height: 44px;
+    margin-right:16px;
+}
+.WrapperContentHeader{
+    display: flex;
+}
+.SearchButtonKV{
+    position: absolute;
+    width:35px;
+    height: 40px;
+    left:   890px;
+    top: 175px;
+    float: right;
+    padding: 6px 10px;
+    margin-bottom: 50px;  
+    margin-right: 16px;
+    background: #FFFFFF;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+.IconSearchKV{
+    width: 24px;
+    height: 24px;
+}
+.DropDownLCB{
+    position: absolute;
+    width:35px;
+    height: 40px;
+    left:   1250px;
+    top: 175px;
+    float: right;
+    padding: 6px 10px;
+    margin-bottom: 50px;  
+    margin-right: 16px;
+    background: #FFFFFF;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+.LCBiconDropDown{
+    width: 20px;
+    height: 20px;
+}
+.DropDownTT{
+    position: absolute;
+    width:35px;
+    height: 40px;
+    left:   1470px;
+    top: 175px;
+    float: right;
+    padding: 6px 10px;
+    margin-bottom: 50px;  
+    margin-right: 16px;
+    background: #FFFFFF;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+.InputIcondropdown{
+    width: 20px;
+    height: 20px;
+}
+.Searchbutton{
+    position: absolute;
+    width: 82px;
+    height: 44px;
+    background: #2190CD;
+/* Blue/5 */
+
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+.TextSearch{
+    position: static;
+    width: 30px;
+    height: 20px;
+    padding:20px 25px 15px 15px;
+    
+    /* 18 Extra Bold */
+    
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    cursor: pointer;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    /* Text/White */
+    
+    color: #FFFFFF;
+}

@@ -1,0 +1,35 @@
+.TitleAccessAddNew{
+    display: flex;
+    margin: 0px 0px 0px 34px;
+}
+.TitleAccessAddNewchild1{
+    width: 125px;
+    height: 20px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;   
+    color: #ACBCD1;
+    margin: 5px 1px; 
+}
+.TitleAccessAddNewchild2{
+    width: 160px;
+    height: 20px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;   
+    color: #ACBCD1;
+    margin: 5px 1px; 
+}
+.TitleAccessAddNewchild3{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    color: #091F3A;
+    opacity: 0.8;
+}

@@ -1,0 +1,143 @@
+.AccessUpdateContent{
+    margin:56px 32px 15px 32px;
+}
+.WrapperAccesUpdateContent{
+    width: 1541px;
+    height: 663px;
+    background: #FFFFFF;
+    border-radius: 16px;
+    display:flex;
+    justify-content: space-between;
+}
+.WrapperLeftAccessUpdateContent{
+    margin:24px 32px 24px 24px;
+    width: 416px;
+    height: 238px;
+    background: #FFFFFF;
+/* Grey/3 */
+
+border: 1px solid #DEE1E2;
+box-sizing: border-box;
+border-radius: 16px;
+}
+.TitleLeftAccessUpdateContent{
+    margin:10px 0px 5px 10px;
+    width: 150px;
+    height: 20px;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+color: #114A69;
+
+opacity: 0.8;
+}
+.WrapperTitleLeftAccesUpdate{
+    display: flex;
+}
+.StarRedAccessUpdate{
+    margin:10px 10px 5px 0px;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+color: #FF5B5B;
+
+opacity: 0.8;
+}
+.TextNameAccessUpdate{
+    margin:10px 0px 5px 10px;
+    width: 368px;
+    height: 44px;
+    background: #FFFFFF;
+/* Grey/4 */
+
+border: 1px solid #ACBCD1;
+box-sizing: border-box;
+border-radius: 8px;
+}
+.StatusAccessUpdateContent{
+    margin:10px 0px 5px 10px;
+    width: 150px;
+    height: 20px;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+color: #114A69;
+
+opacity: 0.8;
+}
+.CheckedAccessUpdate{
+    margin:10px 0px 5px 10px;
+    width: 92px;
+    height: 20px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #091F3A;
+}
+.CautionAccessUpdate{
+    display:flex;
+    position:absolute;
+    left:580px;
+    margin-top:10px;
+}
+/*end left*/
+.WrapperRightAccessUpdateContent{
+    border: 1px solid #DEE1E2;
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin:24px 34px 20px 34px;
+    width: 1045px;
+    height: 595px;
+}
+/*end right*/
+.CancelAccesUpdate{
+    align-items: center;
+    margin:48px 10px 10px 506px;
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+    width: 127px;
+    height: 44px;
+    background: #F0F8FF;
+    cursor:pointer;
+}
+.TextCancelAccessUpdate{
+    padding:10px 25px 20px 20px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2190CD;
+}
+.SaveAccessUpdate{
+    position: absolute;
+    width: 127px;
+    height: 44px;
+    align-items: center;
+    margin:48px 10px 30px 10px;
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background: #2190CD;
+}
+.TextSaveAcccessUpdate{
+    width: 125px;
+    height: 20px;
+    padding:10px 15px 20px 0px;
+    color: #FFFFFF;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    cursor: pointer;
+}

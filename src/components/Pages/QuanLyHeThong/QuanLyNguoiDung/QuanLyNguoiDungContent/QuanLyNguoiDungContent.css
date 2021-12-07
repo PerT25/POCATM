@@ -1,0 +1,75 @@
+.UpdateQLND{
+    position: static;
+    width: 62px;
+height: 20px;
+left: calc(50% - 62px/2 - 12px);
+top: calc(50% - 20px/2);
+color: #347AFF;
+letter-spacing: 0.002em;
+/*font */
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+cursor:pointer;
+text-decoration-line: underline;
+}
+.DeleteQLND{
+    position: static;
+width: 27px;
+height: 20px;
+left: calc(50% - 27px/2 - 12px);
+top: calc(50% - 20px/2);
+cursor: pointer;
+/*font*/
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 20px;
+/*color*/
+color: #FF5B5B;
+text-decoration-line: underline;
+}
+.WrapperQLNDContent{
+    background: #FFFFFF;
+    border-radius: 16px;
+    width: 1541px;
+    height: 900px;
+    margin:24px 34px 20px 34px;
+}
+.WrapperTableQLNDContent{
+    padding:20px 24px 0px 24px;
+}
+.dvqlQLNDContent{
+    position: static;
+width: 113px;
+height: 18px;
+font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+text-decoration-line: underline;
+color: #1085C5;
+
+}
+.TextWrapperQLNDContent{
+    position:absolute;
+    top:1110px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 18px;
+    color: #114A69;
+    opacity: 0.7;
+    display: flex;
+}
+.NumberTextWrapper{
+    border: 1px solid #6CB6DD;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-right: 5px;
+    margin-left: 5px
+}

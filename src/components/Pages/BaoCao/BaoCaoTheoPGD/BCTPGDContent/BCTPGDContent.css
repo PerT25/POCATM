@@ -1,0 +1,42 @@
+.WrapperTableBCTPGD{
+    background: #FFFFFF;
+    border-radius: 16px;
+    width: 1500px;
+    height: 880px;
+    margin:24px 34px 20px 34px;
+}
+.BCTPGDcolorfont{
+    width: 68px;
+    height: 18px;
+    color: #1085C5;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+}
+.TabledataBCTPGD{
+    border: none;
+}
+.WrapperTableBCTPGDContent{
+    padding:20px 24px 0px 24px;
+}
+.BCTPGDTextWrapper{
+    position:absolute;
+    top:1040px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 18px;
+    color: #114A69;
+    opacity: 0.7;
+    display: flex;
+}
+.BCTPGDNumberTextWrapper{
+    border: 1px solid #6CB6DD;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-right: 5px;
+    margin-left: 5px
+}

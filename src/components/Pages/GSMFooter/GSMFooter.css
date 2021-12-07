@@ -1,0 +1,27 @@
+.WrapperTableData{
+    margin: 7px 32px 24px 32px;
+    background: #FFFFFF;
+    border-radius: 16px 16px 16px;
+    width: 1541px;
+    height: 720px;
+}
+thead[class*="ant-table-thead"] th{
+    background-color: #EAF5FA !important;
+    padding:10px 10px 10px 10px;
+    color: #1085C5;
+    border: none;
+  }
+.IconStatus{
+    margin: 4px 7px 7px 7px;
+    cursor: pointer;
+}
+.IconSpace{
+    margin: 4px 20px;
+    cursor: pointer;
+}
+.WrapperTableData{
+    padding:20px 24px 0px 24px;
+}
+.TableGSMFooterdata{
+    border:none !important;
+}

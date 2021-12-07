@@ -1,0 +1,186 @@
+.WrappernormalFooter{
+    display: flex;
+    justify-content: space-between;
+}
+.WrappernormalFooter1{
+    margin:24px 0px 10px 32px;
+}
+.TitleWrapperFooter1{
+    width: 128px;
+    height: 23px;
+    /*font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    /*color*/
+    color: #114A69;
+    opacity: 0.8;
+}
+.WrapperContentfooter{
+    width: 597px;
+    height: 288px;
+    background: #FFFFFF;
+    border-radius: 16px;
+}
+.ContentFooter{
+    display: flex;
+}
+.Iduser{
+    text-align:left;
+    margin-left: 20px;
+    margin-top:10px;
+    /*font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /*color*/
+    color: #114A69;
+    opacity: 0.8;
+}
+.BalanceIduser{
+    margin-left: 115px;
+    margin-top:10px;
+        /*font and color*/
+        color: #091F3A;
+        opacity: 0.8;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+}
+.BalanceFont{
+    margin-left: 57px;
+    margin-top:10px;
+        /*font and color*/
+        color: #091F3A;
+        opacity: 0.8;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+}
+.Inforuser{
+    margin-left: 40px;
+    display: flex;
+    align-items: center;
+    /*font and color*/
+    color: #091F3A;
+    opacity: 0.8;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+.Icongreen{
+    margin-right: 5px;
+}
+.Timeaccess{
+    margin-top:15px;
+    margin-left:20px;
+    /*font and color*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    color: #347AFF;
+    opacity: 0.8;
+}
+/*End Wrapper1*/
+
+.TitleWrapperFooter2{
+    width: 160px;
+    height: 23px;
+    /*font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    /*color*/
+    color: #114A69;
+    opacity: 0.8;
+    /*margin*/
+    margin-left: -400px;
+    margin-top:24px;
+}
+.ContentWrapperFooter2{
+    background: #FFFFFF;
+    border-radius: 16px;
+    width: 440px;
+    height: 288px;
+    margin-left: -430px;
+}
+.WrapperStatus2{
+    display: flex;
+    justify-content: space-between;
+}
+.TextLeft{
+    margin-left: 10px;
+    width: 87px;
+    height: 20px;
+    color: #114A69;
+    opacity: 0.8;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 20px;
+}
+.TextStatus{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    color: #091F3A;
+    opacity: 0.5;
+
+}
+.TextStatus.negative{
+    color: red;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+}
+.WrapperLeft{
+    margin-left: 40px;
+    margin-top:10px;
+}
+.WrapperRight{
+    margin-right: 50px;
+    margin-top:10px;
+}
+.Warning{
+    width: 160px;
+    height: 23px;
+    /*font*/
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    /*color*/
+    color: #114A69;
+    opacity: 0.8;
+    /*margin*/
+    margin-left: -400px;
+    margin-top:24px;
+}
+.ContentWrapperFooter3{
+    background: #FFFFFF;
+    border-radius: 16px;
+    width: 440px;
+    height: 288px;
+    margin-left: -430px;
+    margin-right:20px;
+}

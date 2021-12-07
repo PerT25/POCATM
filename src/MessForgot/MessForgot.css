@@ -1,0 +1,125 @@
+.MessForgot{
+    position: relative;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+border-radius: 50px 50px 50px 50px;
+background: #F0F8FF;
+box-shadow: inset 100px -100px 100px rgba(185, 188, 191, 0.123), inset -100px 100px 100px rgba(255, 255, 255, 0.123);
+backdrop-filter:blur(600px);
+}
+.MFLogo
+{
+    width: 75px;
+    height: 75px;
+    background: #FF2D55;
+    border-radius: 40px 40px 40px 40px;
+    position: absolute;
+}
+.MFLicon1
+{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.MFContent
+{
+    position: absolute;
+    width: 1542px;
+    height: 800px;
+    left: 189px;
+    top: 140px;
+    display: flex;
+
+background:white;
+border-radius: 32px;
+}
+.MFLiconpicture{
+    width: 770px;
+height: 752px;
+
+margin-bottom: 35%;
+margin-right: 50px;
+position: relative;
+
+/* angular */
+
+background: conic-gradient(from 76.92deg at 50% 50%, #C5FFFB -73.21deg, #E4E9FE 2.5deg, #A9D7FF 81.36deg, #89DCFF 143.29deg, #A9C6FF 207.16deg, #C5FFFB 286.79deg, #E4E9FE 362.5deg);
+opacity: 0.5;
+border-radius: 18px;
+}
+.MFContentleft{
+    flex: 5;
+    width: 776px;
+    height: 752px;
+    left: 24px;
+    top: 24px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.MFRForgot{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 50px;
+    margin-top: 15%;
+    text-align: center;
+    margin-right: 25%;
+}
+.MFContentRight{
+    flex: 5;
+}
+.MailtextBox{
+    margin-top: 10px;
+    margin-left: 15%;
+    font-size: 16px;
+    line-height: 24px;
+    color: #091F3A;
+    opacity: 0.6;
+}
+.MessageEmailBack{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #1085C5;
+    position: absolute;
+    z-index: 2;
+    margin-top: 30%;
+    margin-left: 18%;
+    cursor: pointer;
+}
+.MFLContentLatm{
+    margin-top: 10%;
+    margin-left: 16%;
+    height: 600px;
+    position: absolute;
+    z-index: 1;
+}
+.MFLContentLShadowATM{
+    position: absolute;
+    z-index: 0;
+    margin-top: 35%;
+    opacity: 0.9;
+}
+.MFLContentLf923{
+    position: absolute;
+    z-index: 1;
+    margin-top: 3%;
+    margin-left: 30px;
+}
+.MFLContentLf924{
+    position: absolute;
+    z-index: 2;
+    margin-top: 15%;
+    margin-left: 43%;
+}
+.MFLContentLf931{
+    position: absolute;
+    z-index: 2;
+    margin-top: 32%;
+    margin-left: 30%;
+}

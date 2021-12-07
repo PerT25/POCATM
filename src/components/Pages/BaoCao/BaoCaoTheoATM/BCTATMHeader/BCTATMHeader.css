@@ -1,0 +1,221 @@
+.TitleBCTATM{
+    display: flex;
+    margin: 0px 0px 0px 34px;
+}
+.TitleBCTATMChild1{
+    width: 64px;
+    height: 20px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;   
+    color: #ACBCD1;
+    margin: 5px 1px; 
+}
+.TitleBCTATMChild2{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    color: #091F3A;
+    opacity: 0.8;
+}
+.WrapperBCTATMContent{
+    margin: 18px 0px 0px 34px;
+}
+.WrapperBCTATMContentHeader{
+    display: flex;
+}
+.DVQLBCTATMContentHeader{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    width: 150px;
+    height: 20px;
+    color: #114A69;
+    opacity: 0.8;
+    margin-right:70px;
+}
+.LCBBCTATMContentHeader{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    width: 150px;
+    height: 20px;
+    color: #114A69;
+    opacity: 0.8;
+    margin-right:205px;
+}
+.TTLBCTATMContentHeader{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    width: 150px;
+    height: 20px;
+    color: #114A69;
+    opacity: 0.8;
+    margin-right:80px;
+}
+.TGQLBCTATMContentHeader{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    width: 150px;
+    height: 20px;
+    color: #114A69;
+    opacity: 0.8;
+}
+.BCTATMDVQLinput{
+    padding: 11px 24px 13px 16px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 200px;
+    height: 44px;
+    border:none;
+    margin: 0px 16px 0px 0px;
+}
+.BCTATMLCBinput{
+    padding: 11px 24px 13px 16px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 340px;
+    height: 44px;
+    border:none;
+    margin-right:16px;
+}
+.BCTATMTTinput{
+    padding: 11px 24px 13px 16px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 200px;
+    height: 44px;
+    border:none;
+    margin-right:20px;
+}
+.DateWeekPickerBCTATMInput{
+    padding: 11px 24px 13px 16px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 200px;
+    height: 44px;
+    margin-right:16px;
+}
+.BCTATMDropDownLCB{
+    position: absolute;
+    width:35px;
+    height: 40px;
+    left:   895px;
+    top: 175px;
+    float: right;
+    padding: 6px 10px;
+    margin-bottom: 50px;  
+    margin-right: 16px;
+    background: #FFFFFF;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+.BCTATMIconDropDownLCB{
+    width: 20px;
+    height: 20px;
+}
+.BCTATMIconDropDownTT{
+    width: 20px;
+    height: 20px;
+}
+.BCTATMDropDownTT{
+    position: absolute;
+    width:35px;
+    height: 40px;
+    left:   1117px;
+    top: 175px;
+    float: right;
+    padding: 6px 10px;
+    margin-bottom: 50px;  
+    margin-right: 16px;
+    background: #FFFFFF;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+.BCTATMSearchButton{
+    position: absolute;
+    width: 82px;
+    height: 44px;
+    background: #2190CD;
+/* Blue/5 */
+
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+.BCATMSearchText{
+    position: static;
+    width: 30px;
+    height: 20px;
+    padding:20px 25px 15px 15px;
+    
+    /* 18 Extra Bold */
+    
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    cursor: pointer;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    /* Text/White */
+    
+    color: #FFFFFF;
+}
+.BCTATMexportExcel{
+    position: absolute;
+    width: 150px;
+    height: 44px;
+    background: #2190CD;
+/* Blue/5 */
+
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+    right:50px;
+}
+.BCTATMTextExcel{
+    position: static;
+    width: 150px;
+    height: 20px;
+    padding:20px 25px 15px 15px;
+    
+    /* 18 Extra Bold */
+    
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    cursor: pointer;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    /* Text/White */
+    
+    color: #FFFFFF;
+}

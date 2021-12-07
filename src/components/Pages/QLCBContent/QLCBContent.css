@@ -1,0 +1,42 @@
+.Wrapper{
+    background: #FFFFFF;
+    border-radius: 16px;
+    width: 1500px;
+    height: 1000px;
+    margin:24px 34px 20px 34px;
+}
+.colorfont{
+    width: 68px;
+    height: 18px;
+    color: #1085C5;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+}
+.TextWrapper{
+    position:absolute;
+    top:1200px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 18px;
+    color: #114A69;
+    opacity: 0.7;
+    display: flex;
+}
+.NumberTextWrapper{
+    border: 1px solid #6CB6DD;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-right: 5px;
+    margin-left: 5px
+}
+.WrapperContentQLCBTable{
+    padding:20px 24px 0px 24px;
+}
+.TableQLCBdata{
+    border: none;
+}

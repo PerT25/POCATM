@@ -1,0 +1,15 @@
+.GSMContent{
+    width: 1541px;
+    height: 491px;
+    margin: 0px 20px 0px 32px; 
+    overflow: hidden;
+    
+    /* White */
+    
+    background: #FFFFFF;
+    /* Blue/2 */
+    
+    border: 2px solid #ACD5EC;
+    box-sizing: border-box;
+    border-radius: 24px;
+}
